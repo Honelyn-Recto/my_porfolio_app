@@ -67,10 +67,10 @@ st.markdown("<h2 style='font-family:Syne,sans-serif;font-weight:800;margin-botto
 # List of your certificates
 # Note: Replace 'path_to_image.jpg' with your actual file names (e.g., 'python_cert.png')
 certs = [
-    ("Python Essential 1", "pages/Python Essential 1.png"),
-    ("Introduction to IoT", "pages/Intoduction to IoT.png"),
-    ("Android App Development For Beginner", "pages/Andriod App development for beginner.png"),
-    ("Python for Beginner", "pages/Python for Beginner.png"),
+    ("Python Essential 1", "Python Essential 1.png"),
+    ("Introduction to IoT", "Intoduction to IoT.png"),
+    ("Android App Development For Beginner", "Andriod App development for beginner.png"),
+    ("Python for Beginner", "Python for Beginner.png"),
 ]
 
 ccols = st.columns(4)
